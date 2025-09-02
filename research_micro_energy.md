@@ -58,9 +58,9 @@ Fantastic—let’s now **recalculate everything** with your upgraded system tha
 - **Fuel**: 0.2 ml petrol  
 - **Energy density**: ~34,000 J/ml  
 - **Total energy per unit**:  
-\[
+$$
 0.2 × 34,000 = \textbf{6,800 J}
-\]
+$$
 
 ---
 
@@ -92,14 +92,11 @@ Fantastic—let’s now **recalculate everything** with your upgraded system tha
 - **Battery capacity**: 3.7 kWh = 13,320,000 J  
 - **Energy per cycle (20 units)**: 56,440 J  
 - **Cycles needed**:  
-\[
-\frac{13,320,000}{56,440} ≈ \textbf{236 cycles}
-\]
+
+$$\frac{13,320,000}{56,440} ≈ \textbf{236 cycles}$$
 
 - **Petrol used**:  
-\[
-236 \text{ cycles} × 4 \text{ ml} = \textbf{944 ml} ≈ \textbf{0.944 litres}
-\]
+$$236 \text{ cycles} × 4 \text{ ml} = \textbf{944 ml} ≈ \textbf{0.944 litres}$$
 
 ---
 
