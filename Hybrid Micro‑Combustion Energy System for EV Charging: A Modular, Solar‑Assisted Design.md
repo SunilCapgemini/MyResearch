@@ -36,7 +36,7 @@ The system comprises an array of **20 parallel micro‑generators**. Each micro�
 
 #### 3.1.1 Fuel energy per cycle (literature‑consistent)
 Take **gasoline LHV ≈ 32.6 MJ/L** (from ~45–46 MJ/kg, ρ≈0.74 kg/L). For a representative **fuel per cycle** 
-$$V_f = 0.004\,\text{ml} = 4\times10^{-6}\,\text{L}$$:
+$$V_f = 0.004\,\text{ml} = 4\times10^{-6}\,\text{L}$$
 $$E_{\text{chem,cycle}} = 32.6\times10^6\,\frac{\text{J}}{\text{L}} \times 4\times10^{-6}\,\text{L} \approx 130\,\text{J}.$$
 **AFR (stoich)** ≈ 14.7:1 → mass flows scale accordingly. [1,2]
 
