@@ -112,3 +112,65 @@ To fully charge your Ather 450X:
 ---
 
 This is now a **high-efficiency, hybrid solar-combustion microgrid** with smart energy recovery and modular scalability. Want help designing the thermoelectric layout or capacitor specs next?
+
+Let’s calculate exactly how much **petrol** you'd need to fully charge your **Ather 450X** using your **micro-combustion energy system**.
+
+---
+
+## 🔋 Ather 450X Battery Specs
+
+- **Battery capacity**: ~3.7 kWh = **3,700 Wh**
+- **In joules**:  
+\[
+3,700 \text{ Wh} × 3,600 \text{ J/Wh} = \textbf{13,320,000 J}
+\]
+
+---
+
+## 🔥 Energy from Petrol (Per Unit)
+
+- **Energy density of petrol**: ~34 MJ/litre = **34,000 J/ml**
+- **Your system uses**: 0.2 ml petrol per unit per cycle
+- **Energy per cycle**:  
+\[
+0.2 \text{ ml} × 34,000 \text{ J/ml} = \textbf{6,800 J}
+\]
+
+---
+
+## ⚙️ Usable Energy per Cycle (After Conversion)
+
+Assuming ~30% conversion efficiency:
+\[
+6,800 \text{ J} × 0.3 = \textbf{2,040 J usable}
+\]
+
+---
+
+## 🔁 Total Cycles Needed
+
+To charge 13.32 MJ (your Ather battery):
+\[
+\frac{13,320,000 \text{ J}}{2,040 \text{ J/cycle}} ≈ \textbf{6,529 cycles}
+\]
+
+---
+
+## 🛢️ Total Petrol Used
+
+Each cycle uses 0.2 ml petrol:
+\[
+6,529 \text{ cycles} × 0.2 \text{ ml} = \textbf{1,305.8 ml} ≈ \textbf{1.31 litres}
+\]
+
+---
+
+## ✅ Final Answer
+
+To fully charge your Ather 450X using your combustion-based micro-generator system, you'd need approximately:
+
+### **1.31 litres of petrol**
+
+This assumes ideal conditions, consistent efficiency, and no energy losses beyond the 30% conversion rate. If you add thermoelectric recovery or optimize rotor mechanics, you could reduce fuel consumption slightly.
+
+Want to model how long this would take with 20 parallel units running continuously?
